@@ -138,7 +138,7 @@ The chatbot is trained using a custom dataset containing student-related questio
 
 ## 📸 Screenshots
 
-Add screenshots of your chatbot interface here after running the project.
+Add screenshots of chatbot interface here after running the project.
 
 ---
 
