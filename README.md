@@ -155,7 +155,7 @@ Add screenshots of your chatbot interface here after running the project.
 
 ## 👨‍💻 Author
 
-**Vansh**
+**Ayush Singh Chauhan**
 
 B.Tech Computer Science Engineering
 
